@@ -1,0 +1,18 @@
+﻿@model ecmBookStore.Models.SACH
+
+@{
+    ViewBag.Title = "Chi Tiết Sách - " + Model.TenSach; 
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<main>
+    <div class="container">
+        <h1>@Model.TenSach</h1>
+        <img src="~/images/@Model.AnhBia" class="img-fluid" alt="@Model.TenSach" style="height: 300px; object-fit: cover;">
+        <div class="mt-4">
+            <p><strong>Giá bán:</strong> @Model.GiaBan VNĐ</p>
+            <p><strong>Mô tả:</strong> @Model.MoTa</p>
+        </div>
+        <a href="@Url.Action("Index", "BookStore")" class="btn btn-secondary">Trở về danh sách sách</a> <!-- Nút quay lại -->
+    </div>
+</main>

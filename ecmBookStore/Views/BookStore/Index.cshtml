@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    var books = ViewBag.Books as List<ecmBookStore.Models.SACH>;
+    var Chude = ViewBag.ChuDe as List<ecmBookStore.Models.CHUDE>;
+}
+
+<main>
+
+    <div class="d-flex align-items-center justify-content-center my-3 fs-4">
+        <span class="text-danger align-text-center">Sách mới</span>
+    </div>
+    <span class="fs-2">ĐÂY LÀ TRANG CHỦ</span>
+    <div class="row">
+        @if (books != null && books.Count > 0)
+        {
+            foreach (var book in books)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <img src="~/images/@book.AnhBia" class="card-img-top" alt="@book.TenSach" style="height: 200px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">@book.TenSach</h5>
+                            <p class="card-text">Giá bán: @book.GiaBan VNĐ</p>
+                            <p class="card-text">Mô tả: @book.MoTa</p>
+                            <a href="@Url.Action("Details", "BookStore", new { id = book.MaSach })" class="btn btn-primary">Xem Chi Tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>Không có sách nào.</p>
+        }
+    </div>
+</main>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c933ab65da204e499d8806a89f0a4785" Name="Diagram1">
+        <EntityTypeShape EntityType="ecomBookStoreModel.CHITIETDONDATHANG" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.CHUDE" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.DONDATHANG" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.NHAXUATBAN" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.SACH" Width="1.5" PointX="3" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.TAGGIA" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ecomBookStoreModel.VIETSACH" Width="1.5" PointX="5.25" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__CHITIETDO__MaDon__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__CHITIETDO__MaSac__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__SACH__MaCD__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__DONDATHANG__MaKH__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__SACH__MaNXB__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__SACH__MaTG__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__VIETSACH__MaSach__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="ecomBookStoreModel.FK__VIETSACH__MaTG__4E88ABD4" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

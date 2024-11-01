@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\project\\ecmBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\bookstore\\sptheonsx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\bookstore\\sptheonsx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\bookstore\\nhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\bookstore\\nhaxuatban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\bookstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\bookstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|d:\\workspace\\project\\ecmbookstore\\ecmbookstore\\models\\modeldata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{159F7902-C6CC-42E6-ADE3-5CCAB9A31957}|ecmBookStore\\ecmBookStore.csproj|solutionrelative:ecmbookstore\\models\\modeldata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpTheoChuDe.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\SpTheoChuDe.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\BookStore\\SpTheoChuDe.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\SpTheoChuDe.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\BookStore\\SpTheoChuDe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T09:32:00.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpTheoNSX.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\SpTheoNSX.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\BookStore\\SpTheoNSX.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\SpTheoNSX.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\BookStore\\SpTheoNSX.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T09:29:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\Details.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\BookStore\\Details.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\Details.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\BookStore\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T09:21:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhaXuatBan.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\BookStore\\NhaXuatBan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T09:09:39.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\packages.config",
+              "RelativeDocumentMoniker": "ecmBookStore\\packages.config",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\packages.config",
+              "RelativeToolTip": "ecmBookStore\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-01T08:55:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\Web.config",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Web.config",
+              "RelativeToolTip": "ecmBookStore\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-01T08:50:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:50:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChuDe.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\ChuDe.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\BookStore\\ChuDe.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\ChuDe.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\BookStore\\ChuDe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:47:50.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ecmBookStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ecmBookStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:29:52.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ecmBookStore\\Models\\Book.cs",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Models\\Book.cs",
+              "RelativeToolTip": "ecmBookStore\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:16:48.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\BookStore\\Index.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\BookStore\\Index.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\BookStore\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:21:43.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStoreController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Controllers\\BookStoreController.cs",
+              "RelativeDocumentMoniker": "ecmBookStore\\Controllers\\BookStoreController.cs",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Controllers\\BookStoreController.cs",
+              "RelativeToolTip": "ecmBookStore\\Controllers\\BookStoreController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:20:12.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:19:25.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:18:23.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:09:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ecmBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ecmBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:05:43.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelData.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Models\\ModelData.edmx",
+              "RelativeDocumentMoniker": "ecmBookStore\\Models\\ModelData.edmx",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Models\\ModelData.edmx [Diagram1]",
+              "RelativeToolTip": "ecmBookStore\\Models\\ModelData.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-01T07:04:03.875Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Web.config",
+              "RelativeDocumentMoniker": "ecmBookStore\\Web.config",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Web.config",
+              "RelativeToolTip": "ecmBookStore\\Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-01T06:36:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ecmBookStore\\Global.asax.cs",
+              "ToolTip": "D:\\workspace\\project\\ecmBookStore\\ecmBookStore\\Global.asax.cs",
+              "RelativeToolTip": "ecmBookStore\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:35:12.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿@model IEnumerable<ecmBookStore.Models.NHAXUATBAN>
+
+<ul class="list-unstyled">
+    @foreach (var item in Model)
+    {
+        <li class="border p-2 mb-2">
+            <a href="@Url.Action("SpTheoNSX", "BookStore", new { id = item.MaNXB })">@item.TenNXB</a>
+        </li>
+    }
+</ul>
