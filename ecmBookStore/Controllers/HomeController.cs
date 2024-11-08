@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ecmBookStore.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +9,8 @@ namespace ecmBookStore.Controllers
 {
     public class HomeController : Controller
     {
+        private ecomBookStoreEntities db = new ecomBookStoreEntities();
+
         public ActionResult Index()
         {
             return View();

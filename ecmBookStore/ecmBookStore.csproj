@@ -199,7 +199,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\BookStoreController.cs" />
+    <Compile Include="Controllers\GiohangController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NguoidungController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -213,6 +215,7 @@
     <Compile Include="Models\DONDATHANG.cs">
       <DependentUpon>ModelData.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\GioHang.cs" />
     <Compile Include="Models\KHACHHANG.cs">
       <DependentUpon>ModelData.tt</DependentUpon>
     </Compile>
@@ -271,6 +274,7 @@
     <Content Include="images\dacnhantam.jpg" />
     <Content Include="images\damthatbai.jpg" />
     <Content Include="images\docViBatKiai.jpg" />
+    <Content Include="images\giohang.jpg" />
     <Content Include="images\richDadpoorDad.jpg" />
     <Content Include="images\vuotlesophan.jpg" />
     <Content Include="Models\ModelData.Context.tt">
@@ -328,6 +332,13 @@
     <Content Include="Views\BookStore\Details.cshtml" />
     <Content Include="Views\BookStore\SpTheoNSX.cshtml" />
     <Content Include="Views\BookStore\SpTheoChuDe.cshtml" />
+    <Content Include="Views\Nguoidung\DangKi.cshtml" />
+    <Content Include="Views\Nguoidung\Index.cshtml" />
+    <Content Include="Views\Nguoidung\DangNhap.cshtml" />
+    <Content Include="Views\Giohang\GioHang.cshtml" />
+    <Content Include="Views\Giohang\GioHangPartial.cshtml" />
+    <Content Include="Views\Giohang\DatHang.cshtml" />
+    <Content Include="Views\Giohang\Xacnhandonhang.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

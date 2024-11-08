@@ -13,6 +13,11 @@
             <p><strong>Giá bán:</strong> @Model.GiaBan VNĐ</p>
             <p><strong>Mô tả:</strong> @Model.MoTa</p>
         </div>
-        <a href="@Url.Action("Index", "BookStore")" class="btn btn-secondary">Trở về danh sách sách</a> <!-- Nút quay lại -->
+        <div class="d-flex align-items-center gap-2">
+            <div id="Datmua" class="btn btn-primary">
+                <a class="text-white list-unstyled" href="@Url.Action("ThemGioHang","Giohang",new {@MaSach = @Model.MaSach, @strUrl=Request.Url.ToString()})">Đặt mua</a>
+            </div>
+            <a href="@Url.Action("Index", "BookStore")" class="btn btn-secondary">Trở về danh sách sách</a>
+        </div>
     </div>
 </main>

@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+@model List<Giohang>
+
+<h2 style="text-align:center">THÔNG TIN GIỎ HÀNG</h2>
+<table align="center" border="1" width="100%">
+    <tr>
+        <td>Mã sách</td>
+        <td>Tên sách</td>
+        <td>Ảnh bìa</td>
+        <td>Số lượng</td>
+        <td>Thành tiền</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.iMasach</td>
+            <td>@item.sTensach</td>
+            <td><img src="~/images/@item.sAnhbia" alt="Ảnh bìa" style="width:50px;height:75px;" /></td>
+            <td>@item.iSoluong</td>
+            <td>@String.Format("{0:0,0}", item.dThanhtien) VND</td>
+            <td>
+                <a href="@Url.Action("Details","BookStore",new {id = item.iMasach})">Chi tiết</a>
+            </td>
+            <td>
+                @Html.ActionLink("Xóa", "XoaGioHang", new { MaSp = item.iMasach })
+            </td>
+            <td>
+                <form action="@Url.Action("CapnhatGiohang", "Giohang", new { iMaSP = item.iMasach })" method="post">
+                    <input type="number" name="txtSoLuong" value="@item.iSoluong" min="1" />
+                    <input type="submit" value="Cập nhật" />
+                </form>
+            </td>
+        </tr>
+    }
+    <tr style="font-weight:700;text-align:right;color:red">
+        <td colspan="3">
+            Số lượng sách: @ViewBag.TongSoLuong
+        </td>
+        <td colspan="2">
+            Tổng tiền: @String.Format("{0:0,0}", ViewBag.TongTien) VND
+        </td>
+    </tr>
+    <tr>
+        <td colspan="9" align="right">
+            @Html.ActionLink("Xóa giỏ hàng", "XoaTatcaGiohang")
+        </td>
+    </tr>
+    <tr>
+        <td colspan="9" align="center">
+            @Html.ActionLink("Đặt hàng", "DatHang")
+        </td>
+    </tr>
+</table>
